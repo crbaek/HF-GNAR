@@ -3,7 +3,7 @@
 **Empirical analysis code** accompanying the manuscript by **Panagiotis Andreou,
 Changryong Baek, and Vladas Pipiras** (2026).
 
-Repository: <https://github.com/crbaek/GNAR>
+Repository: <https://github.com/crbaek/HF-GNAR>
 
 ## Purpose
 
